@@ -16,7 +16,7 @@ spec:
         - values.yaml
   destination:
     server: https://kubernetes.default.svc
-    namespace: nodejs-postgres-ahjquw
+    namespace: "nodejs-dashboard-shuja"
   syncPolicy:
     automated:
       prune: true
