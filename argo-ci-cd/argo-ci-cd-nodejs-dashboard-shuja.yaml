@@ -8,7 +8,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/"shujaahmedi2l/nodejs-dashboard-shuja".git
+    repoURL: https://github.com/shujaahmedi2l/nodejs-dashboard-shuja.git
     targetRevision: master
     path: helm/
     helm:
