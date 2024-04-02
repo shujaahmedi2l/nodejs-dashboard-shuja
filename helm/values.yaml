@@ -2,7 +2,7 @@ replicaCount: 3
 
 image:
   repository: 696960135893.dkr.ecr.eu-west-1.amazonaws.com/nodejs-dashboard-shuja
-  tag: d7cc94b6548f5d9336c3faa45e0006e1625840df
+  tag: 57b8504f280f7fbab790e35aa928aef594ecccd1
   pullPolicy: Always
 
 service:
